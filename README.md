@@ -29,7 +29,7 @@
 
 1. 克隆此仓库
    ```bash
-   git clone https://gitee.com/hhmyzhs/crawler_client.git
+   git clone git@github.com:haipingzi/crawler_client.git
    ```
 2. 进入项目目录
    ```bash
